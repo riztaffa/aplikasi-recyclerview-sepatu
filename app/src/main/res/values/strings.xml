@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TugasRecycleView</string>
+    <string name="sepatu_name">Nama Sepatu</string>
+    <string name="price">Harga</string>
+    <string name="with_cardview">Card View</string>
+    <string name="list">List</string>
+    <string name="description">Deskripsi</string>
+    <string name="favorite">Favorite</string>
+    <string name="share">Share</string>
+</resources>
